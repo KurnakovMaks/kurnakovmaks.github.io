@@ -70,6 +70,7 @@ In many tasks, failing to account for the hierarchical relations and autocorrela
 
 <!-- <img src="images/random_intercept.png?raw=true"/> -->
 
+<!--
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 View code on Github
