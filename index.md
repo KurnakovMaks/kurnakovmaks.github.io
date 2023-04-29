@@ -6,12 +6,12 @@
 
 Учебный проект по определению эмоциональной окраски отзывов с платформы  Кинопоиск. Был проведен сравнительный анализ методов опорных векторов, случайного леса и k-ближайших соседей.
 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#) [![]([https://img.shields.io/badge/PyTorch-white?logo=pytorch](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter))](#)
+[![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1Y4kKRCaeXWLQabzQIrgc0jo1RMsFzPlk?usp=sharing)
-
----
 <!--
+---
+
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
