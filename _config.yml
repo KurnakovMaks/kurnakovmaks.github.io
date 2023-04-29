@@ -1,10 +1,8 @@
 title: Максим Курнаков # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  Начинающий специалист в области Data Science.С опытом более года в системном администрировании.
-  <br>
-  <a href="https://huggingface.co/maksim2000153">View My 🤗 HuggingFace 🤗 Profile</a> 
+  <br> Начинающий специалист в области Data Science.С опытом более года в системном администрировании. <br>
+  <br> <a href="https://huggingface.co/maksim2000153">View My 🤗 HuggingFace 🤗 Profile</a> <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
