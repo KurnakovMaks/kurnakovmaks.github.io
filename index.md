@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
 
-<img src="images/SVC_ConfMatrix.png?raw=true" alt="SVC_ConfMatrix" width="300" height="300"/> <img src="images/RandForest_ConfMatrix.png?raw=true" alt="RandForest_ConfMatrix" width="300" height="300"/> <img src="images/KNeighbors_ConfMatrix.png?raw=true" alt="KNeighbors_ConfMatrix" width="300" height="300"/>
+<img src="images/SVC_ConfMatrix.png?raw=true" alt="SVC_ConfMatrix" width="100" height="100"/> <img src="images/RandForest_ConfMatrix.png?raw=true" alt="RandForest_ConfMatrix" width="100" height="100"/> <img src="images/KNeighbors_ConfMatrix.png?raw=true" alt="KNeighbors_ConfMatrix" width="100" height="100"/>
 
 [View code on Colab](https://colab.research.google.com/drive/1Y4kKRCaeXWLQabzQIrgc0jo1RMsFzPlk?usp=sharing)
 
