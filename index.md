@@ -1,17 +1,17 @@
-## Selected projects in data science, machine learning and NLP
+## Выполненные проекты в области машинного обучения
 
 ---
 
-### Deep NLP for hate speech detection
+### Сравнительный анализ методов ML для определения эмоциональной окраски отзывов на фильмы на платформе КиноПоиск
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+Учебный проект по определению эмоциональной окраски отзывов с платформы  Кинопоиск. Был проведен сравнительный анализ методов опорных векторов, случайного леса и k-ближайших соседей.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#) [![]([https://img.shields.io/badge/PyTorch-white?logo=pytorch](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter))](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1Y4kKRCaeXWLQabzQIrgc0jo1RMsFzPlk?usp=sharing)
 
 ---
-
+<!--
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
@@ -76,11 +76,11 @@ View code on Github
 
 ---
 
-## Skills-based projects
+ ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
+- [Optimising code with multiprocessing](#)](url)  -->
 
 
 
