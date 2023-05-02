@@ -13,6 +13,18 @@
 -->
 [View code on Colab](https://colab.research.google.com/drive/1Y4kKRCaeXWLQabzQIrgc0jo1RMsFzPlk?usp=sharing)
 
+---
+
+### Анализ данных Walmart
+
+Учебный проект по анализу данных розничного магазина, имеющего несколько торговых точек по всей стране.
+
+[![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
+
+<img src="images/Weekly_sales_by_week.png"/>
+
+[View code on Colab](https://colab.research.google.com/drive/1yY3g2VDL9SQ-8y_mBP4HbzEk3a5enmgU?usp=sharing)
+
 
 <!--
  ## Skills-based projects
