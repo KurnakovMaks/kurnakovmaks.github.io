@@ -2,6 +2,18 @@
 
 ---
 
+### Извлечение отношений из медицинских текстов
+
+Проект по извлечению отношений химико-белковых взаимодействий на основе корпуса [ChemProt](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/).
+
+[![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
+
+<img src="images/RE_Chemprot.png"/>
+
+[View code on Colab](https://colab.research.google.com/drive/13-VrFtXREpqdQXJesNjk1XzkMgxOkro4?usp=sharing)
+
+---
+
 ### Сравнительный анализ методов ML для определения эмоциональной окраски отзывов на фильмы на платформе КиноПоиск
 
 Учебный проект по определению эмоциональной окраски отзывов с платформы  Кинопоиск. Был проведен сравнительный анализ методов опорных векторов, случайного леса и k-ближайших соседей.
@@ -24,6 +36,7 @@
 <img src="images/Weekly_sales_by_week.png"/>
 
 [View code on Colab](https://colab.research.google.com/drive/1yY3g2VDL9SQ-8y_mBP4HbzEk3a5enmgU?usp=sharing)
+
 
 
 <!--
