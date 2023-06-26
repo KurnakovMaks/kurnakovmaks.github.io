@@ -37,6 +37,17 @@
 
 [View code on Colab](https://colab.research.google.com/drive/1yY3g2VDL9SQ-8y_mBP4HbzEk3a5enmgU?usp=sharing)
 
+---
+
+### Распознавание лиц
+
+Задача распознавания лица на фото с загрузкой изображения по ссылке.
+
+[![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
+
+<img src="images/recognized_face.png"/>
+
+[View code on Colab](https://colab.research.google.com/drive/1eezpVSz0iCkWiA0dNKNOA-SxvKBc0rSs?usp=sharing)
 
 
 <!--
